@@ -20,15 +20,19 @@ Here are some ideas to get you started:
 
 
 ### Repo Naming Scheme
-<Organisation/Event>-<*ProjectName>-<ProjectType>
+Organisation/Event-*ProjectName-ProjectType
 
-Possible Project Types
+#### Possible Project Types
 - srcipt
 - assignment
-- mono
-- app
-- fe
-- be
-- api
-- contract
-- mc
+- playground
+- mono (mono repo)
+- rpt (report)
+- app (full application)
+- docs (documentation)
+- fe (frontend)
+- be (backend)
+- api (http endpoints)
+- contract (blockchain smart contracts)
+- db (database)
+- mc (mircocontroller)
