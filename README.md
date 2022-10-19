@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 
 
 ### Repo Naming Scheme
+My Project Naming Scheme is the format below:
 Organisation/Event-*ProjectName-ProjectType
 
 #### Possible Project Types
-- srcipt
+- script
 - assignment
 - playground
 - mono (mono repo)
