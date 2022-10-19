@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ### Repo Naming Scheme
-My Project Naming Scheme is the format below:
+My Project Naming Scheme is the format: <br>
 Organisation/Event-*ProjectName-ProjectType
 
 #### Possible Project Types
