@@ -17,3 +17,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Repo Naming Scheme
+<Organisation/Event>-<*ProjectName>-<ProjectType>
+
+Possible Project Types
+- srcipt
+- assignment
+- mono
+- app
+- fe
+- be
+- api
+- contract
+- mc
