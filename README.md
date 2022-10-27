@@ -25,6 +25,7 @@ My Project Naming Scheme is the format: <br>
 Organisation/Event-*ProjectName-ProjectType
 
 #### Possible Project Types
+- event
 - script
 - assignment
 - playground
