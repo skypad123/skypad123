@@ -1,7 +1,11 @@
 [![@skypad123's Holopin board](https://holopin.me/skypad123)](https://holopin.io/@skypad123)
 
-### Hi there, I am Sky Livingston. 👋
-Formal Name Tan Yunliang. 
+
+
+
+
+
+
 
 
 <!--
@@ -20,22 +24,39 @@ Here are some ideas to get you started:
 -->
 
 
-### Repo Naming Scheme
+<h1>Hi there, I am Sky Livingston / Tan Yunliang. 👋 </h1>
+  <ul>
+  <li>🔭 I'm currently working on Altasmir, a blockchain proof of concept for a decentralised insurance platform.</li>
+  <li>🌱 I'm currently learning tokio rust and system architecture. </li>
+  </ul>
+
+
+
+<div>
+<img height= 180 src="https://github-readme-stats.vercel.app/api/top-langs?username=skypad123&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
+
+<img height= 180 src="https://github-readme-streak-stats.herokuapp.com/?user=skypad123&theme=tokyonight" alt="mystreak"/>
+</div>
+
+
+<h2>Repo Naming Scheme </h2>
 My Project Naming Scheme is the format: <br>
 Organisation/Event-*ProjectName-ProjectType
 
-#### Possible Project Types
-- event
-- script
-- assignment
-- playground
-- mono (mono repo)
-- rpt (report)
-- app (full application)
-- docs (documentation)
-- fe (frontend)
-- be (backend)
-- api (http endpoints)
-- contract (blockchain smart contracts)
-- db (database)
-- mc (mircocontroller)
+<h3>Possible Project Types</h3>
+<ul>
+    <li>event</li>
+    <li>script</li>
+    <li>assignment</li>
+    <li>playground</li>
+    <li>mono (mono repo)</li>
+    <li>rpt (report)</li>
+    <li>app (full application)</li>
+    <li>docs (documentation)</li>
+    <li>fe (frontend)</li>
+    <li>api (http endpoints)</li>
+    <li>contract (blockchain smart contracts)</li>
+    <li>db (database)</li>
+    <li>mc (mircocontroller)</li>
+
+
