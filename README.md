@@ -1,13 +1,6 @@
 [![@skypad123's Holopin board](https://holopin.me/skypad123)](https://holopin.io/@skypad123)
 
 
-
-
-
-
-
-
-
 <!--
 **skypad123/skypad123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +26,6 @@ Here are some ideas to get you started:
 
 
 <div>
-<img height= 180 src="https://github-readme-stats.vercel.app/api/top-langs?username=skypad123&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> 
 
 <img height= 180 src="https://github-readme-streak-stats.herokuapp.com/?user=skypad123&theme=tokyonight" alt="mystreak"/>
 </div>
