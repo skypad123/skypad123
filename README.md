@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 <h1>Hi there, I am Sky Livingston / Tan Yunliang. 👋 </h1>
   <ul>
-  <li>🔭 I'm currently working on Altasmir, a blockchain proof of concept for a decentralised insurance platform.</li>
-  <li>🌱 I'm currently learning tokio rust and anchor framework for solana smart contract development. </li>
+  <li>🌱 I'm currently learning redpanda(kafka), react native </li>
   </ul>
 
 
