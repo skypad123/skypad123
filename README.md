@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 
 <h1>Hi there, I am Sky Livingston / Tan Yunliang. 👋 </h1>
   <ul>
-  <li>🌱 I'm currently learning redpanda(kafka), react native </li>
+  <li>🔭 I'm currently developing a Trading Card Marketplace @ Komoditi.io </li>
+  <l1>🌱 I'm developing with Flutter/Supabase. </l1>
   </ul>
-
-
-
+  
 <div>
 
 <img height= 180 src="https://github-readme-streak-stats.herokuapp.com/?user=skypad123&theme=tokyonight" alt="mystreak"/>
