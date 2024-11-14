@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h1>Hi there, I am Sky Livingston / Tan Yunliang. 👋 </h1>
   <ul>
   <li>🔭 I'm currently developing a Trading Card Marketplace Platform @ Komoditi.io </li>
-  <l1>🌱 I'm developing with Flutter/Supabase. </l1>
+  <l1>🌱 I'm developing with Flutter/Django. </l1>
   </ul>
   
 <div>
